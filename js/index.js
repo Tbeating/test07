@@ -1,1 +1,1 @@
-console.log("hello world");
+console.log("今天天气不错");
